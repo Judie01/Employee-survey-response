@@ -12,6 +12,9 @@
 ## Project Overview
 This analysis was carried out using the data collected from surveys to gain insights into employee satisifaction, workplace relationship and other aspects of the workplace. By analyzing various aspect of the data using MySQL and PowerBI, we tend to draw conclusions for improving employee experience and organizational performance.
 
+![Screenshot 2024-05-24 213545](https://github.com/Judie01/Employee-survey-response/assets/170753574/d20f925e-8294-4711-a03b-98fc5e8ede51)
+
+
 ## Data Source
 The database was provided by Digitaley drive as a part of my capstone project. It consists of one table with 14,788 rows and 10 columns.
 
